@@ -53,5 +53,5 @@ Bu az-maz çətindir, amma Code Academy Sizə Güvənir! :)</li>
 </ul>
 </li>
 </ul>
-<p><em>Şənbə günü saat 2-də labda iştirak edin. Xoş həftəsonu.</em></p>
+<p><em> Xoş həftəsonu.</em></p>
 </article>
