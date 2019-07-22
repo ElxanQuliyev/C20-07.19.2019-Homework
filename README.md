@@ -31,7 +31,7 @@
 <li>İstifadəçinin adı, il və ay verildikdə həmin istifadəçinin göstərilən tarixdə hansı mahnılara qulaq asdığı və
 hansı mahnıları bəyəndiyi görsənməlidir. Hint: burada 2 cədvəl birləşdirilməli və select statement-də əlavə bir sütun  yaradılmalıdır:
 baxılan mahnılar üçün həmin sütunda "baxılıb" yazılsın, like olan mahnılar üçün "liked" yazılsın.
-Bu az-maz çətindir, amma Code Academy Sizə Güvənir! :)</li>
+Bu az-maz çətindir, amma Compar Academy Sizə Güvənir! :)</li>
 </ol>
 </li>
 </ul>
